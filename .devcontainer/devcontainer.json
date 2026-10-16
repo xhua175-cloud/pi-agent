@@ -1,0 +1,1 @@
+{"name":"Pi Coding Agent","image":"mcr.microsoft.com/devcontainers/universal:2","postCreateCommand":"npm install -g @earendil-works/pi-coding-agent"}
